@@ -408,13 +408,12 @@ a img.aligncenter {
 	border-radius: 2px;
 }
 
-.navbar-expand-lg .navbar-nav .nav-link.active{
-	background: #AD1457;
-	color: #ffffff;
-	font-weight: 600;
-	border-radius: 2px;
+.navbar-expand-lg .navbar-nav .nav-link.active {
+    background: #1427ad;
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 2px;
 }
-
 
 
 .megamenu .nav,
