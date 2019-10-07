@@ -55,7 +55,7 @@ body.app_version .grd1:hover,
 body.app_version .grd1:focus {
     background-position: 100px;
     color: #ffffff;
-    background: #C62828;    
+    background: #202125;    
 	box-shadow: 0px 1px 27px -3px rgba(0, 0, 0, 0.2);
 }
 
@@ -122,7 +122,7 @@ body.app_version .btn-light i {
 }
 
 body.app_version .effect-1:after {
-    box-shadow: 0 0 0 2px #AD1457;
+    box-shadow: 0 0 0 2px #0e0d0e;
 }
 
 body.app_version .footer a,
@@ -173,12 +173,12 @@ body.app_version .contact_form {
 
 body.app_version .owl-next i,
 body.app_version .owl-prev i {
-    background-color: #C62828;
+    background-color: #236de8;
 	color: #ffffff;
 }
 
 body.app_version .desc h3 i {
-    color: #C62828;
+    color: #236de8;
 }
 
 body.app_version .header_style_01 {
@@ -337,19 +337,19 @@ body.app_version .how-its-work .hc p.lead {
 }
 
 body.app_version .hc.colon1 {
-    background-color: #C62828;
+    background-color: #236de8;
 }
 
 body.app_version .hc.colon2 {
-    background-color: #AD1457;
+    background-color: #000000e8;
 }
 
 body.app_version .hc.colon3 {
-    background-color: #C62828;
+    background-color: #236de8;
 }
 
 body.app_version .hc.colon4 {
-    background-color: #AD1457;
+    background-color: #000000e8;
 }
 
 body.app_version .app-features li {

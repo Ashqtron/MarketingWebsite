@@ -409,7 +409,7 @@ a img.aligncenter {
 }
 
 .navbar-expand-lg .navbar-nav .nav-link.active {
-    background: #1427ad;
+    background: #236de8;
     color: #ffffff;
     font-weight: 600;
     border-radius: 2px;
@@ -1500,7 +1500,7 @@ body.app_version .customwidget li i{
     border-radius: 6px;
     font-size: 26px;
 	color: #ffffff;
-    background-color: #AD1457;
+    background-color: #236de8;
     margin: 0 auto 22px;
     position: relative;
     text-align: center;
@@ -2143,7 +2143,7 @@ body.app_version .dev-list .widget-title small{
      left: 0;
      margin: 0px;
      height: 2px;
-     background: #AD1457;
+     background: #1261c1;
      visibility: hidden;
      transition: all 0.45s ease;
      -webkit-transition: all 0.45s ease;
