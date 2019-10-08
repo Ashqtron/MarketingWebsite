@@ -338,18 +338,22 @@ body.app_version .how-its-work .hc p.lead {
 
 body.app_version .hc.colon1 {
     background-color: #236de8;
+	height: 230px;
 }
 
 body.app_version .hc.colon2 {
     background-color: #000000e8;
+	height: 230px;
 }
 
 body.app_version .hc.colon3 {
     background-color: #236de8;
+	height: 230px;
 }
 
 body.app_version .hc.colon4 {
     background-color: #000000e8;
+	height: 230px;
 }
 
 body.app_version .app-features li {
